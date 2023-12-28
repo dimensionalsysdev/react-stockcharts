@@ -90,7 +90,7 @@
     "react-dom": "18.2.0",
     "remarkable-loader": "^0.2.1",
     "rimraf": "^2.6.2",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^7.3.1",
     "shelljs": "^0.7.8",
     "shortid": "^2.2.8",
     "style-loader": "^0.19.0",
@@ -131,18 +131,5 @@
     "data-viz",
     "d3-finance-chart",
     "d3-stockchart"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rrag/react-stockcharts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/rrag/react-stockcharts/issues"
-  },
-  "maintainers": [
-    {
-      "name": "rrag",
-      "email": "ragunath.ramaswamy@gmail.com"
-    }
   ]
 }
